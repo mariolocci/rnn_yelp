@@ -29,7 +29,7 @@ Command-line application that translates some text.
 """
 #from __future__ import print_function
 
-__author__ = 'locci.mario@google.com (Joe Gregorio)'
+__author__ = 'mario'
 
 from googleapiclient.discovery import build
 
